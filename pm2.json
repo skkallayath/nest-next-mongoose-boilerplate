@@ -1,0 +1,8 @@
+{
+  "name": "nest-next-mongoose-boilerplate",
+  "script": "npm run start:prod",
+  "instances": "1",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
